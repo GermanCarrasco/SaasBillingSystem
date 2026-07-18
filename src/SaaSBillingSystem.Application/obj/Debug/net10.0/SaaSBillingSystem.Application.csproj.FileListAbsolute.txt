@@ -1,0 +1,15 @@
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/bin/Debug/net10.0/SaaSBillingSystem.Application.deps.json
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/bin/Debug/net10.0/SaaSBillingSystem.Application.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/bin/Debug/net10.0/SaaSBillingSystem.Application.pdb
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/bin/Debug/net10.0/SaaSBillingSystem.Domain.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/bin/Debug/net10.0/SaaSBillingSystem.Domain.pdb
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.csproj.AssemblyReference.cache
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.AssemblyInfoInputs.cache
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.AssemblyInfo.cs
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.csproj.CoreCompileInputs.cache
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBill.368DC77A.Up2Date
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/refint/SaaSBillingSystem.Application.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/SaaSBillingSystem.Application.pdb
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Application/obj/Debug/net10.0/ref/SaaSBillingSystem.Application.dll

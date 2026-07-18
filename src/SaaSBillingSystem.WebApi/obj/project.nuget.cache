@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8aDhL+tzfQ=",
+  "success": true,
+  "projectFilePath": "/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.WebApi/SaaSBillingSystem.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/automapper/16.2.0/automapper.16.2.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/mediatr/14.2.0/mediatr.14.2.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.10/microsoft.aspnetcore.authentication.jwtbearer.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/10.0.10/microsoft.aspnetcore.identity.entityframeworkcore.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.aspnetcore.openapi/10.0.10/microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.bcl.cryptography/10.0.2/microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.data.sqlclient/6.1.1/microsoft.data.sqlclient.6.1.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.data.sqlclient.sni.runtime/6.0.2/microsoft.data.sqlclient.sni.runtime.6.0.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.entityframeworkcore/10.0.10/microsoft.entityframeworkcore.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.10/microsoft.entityframeworkcore.abstractions.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.10/microsoft.entityframeworkcore.analyzers.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.10/microsoft.entityframeworkcore.relational.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.entityframeworkcore.sqlserver/10.0.10/microsoft.entityframeworkcore.sqlserver.10.0.10.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identity.client/4.73.1/microsoft.identity.client.4.73.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identity.client.extensions.msal/4.73.1/microsoft.identity.client.extensions.msal.4.73.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identitymodel.abstractions/8.19.2/microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.19.2/microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identitymodel.logging/8.19.2/microsoft.identitymodel.logging.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identitymodel.protocols/8.19.2/microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.19.2/microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.identitymodel.tokens/8.19.2/microsoft.identitymodel.tokens.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.3/npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/sharpgrip.fluentvalidation.autovalidation.mvc/2.0.0/sharpgrip.fluentvalidation.autovalidation.mvc.2.0.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/sharpgrip.fluentvalidation.autovalidation.shared/2.0.0/sharpgrip.fluentvalidation.autovalidation.shared.2.0.0.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/swashbuckle.aspnetcore/10.2.3/swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.3/swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.3/swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.3/swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/system.clientmodel/1.5.1/system.clientmodel.1.5.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/system.configuration.configurationmanager/9.0.4/system.configuration.configurationmanager.9.0.4.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/system.identitymodel.tokens.jwt/8.19.2/system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/system.security.cryptography.pkcs/9.0.4/system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
+    "/Users/germanantoniocarrascocalderon/.nuget/packages/system.security.cryptography.protecteddata/9.0.4/system.security.cryptography.protecteddata.9.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.2.0 was resolved.",
+      "projectPath": "/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.WebApi/SaaSBillingSystem.WebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.WebApi/SaaSBillingSystem.WebApi.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 14.2.0 was resolved.",
+      "projectPath": "/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.WebApi/SaaSBillingSystem.WebApi.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.WebApi/SaaSBillingSystem.WebApi.csproj",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

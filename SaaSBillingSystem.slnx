@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SaaSBillingSystem.Application/SaaSBillingSystem.Application.csproj" />
+    <Project Path="src/SaaSBillingSystem.Domain/SaaSBillingSystem.Domain.csproj" />
+    <Project Path="src/SaaSBillingSystem.Infrastructure/SaaSBillingSystem.Infrastructure.csproj" />
+    <Project Path="src/SaaSBillingSystem.WebApi/SaaSBillingSystem.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SaaSBillingSystem.Tests/SaaSBillingSystem.Tests.csproj" />
+  </Folder>
+</Solution>

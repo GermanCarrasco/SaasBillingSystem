@@ -1,0 +1,11 @@
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/bin/Debug/net10.0/SaaSBillingSystem.Domain.deps.json
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/bin/Debug/net10.0/SaaSBillingSystem.Domain.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/bin/Debug/net10.0/SaaSBillingSystem.Domain.pdb
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/SaaSBillingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/SaaSBillingSystem.Domain.AssemblyInfoInputs.cache
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/SaaSBillingSystem.Domain.AssemblyInfo.cs
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/SaaSBillingSystem.Domain.csproj.CoreCompileInputs.cache
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/SaaSBillingSystem.Domain.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/refint/SaaSBillingSystem.Domain.dll
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/SaaSBillingSystem.Domain.pdb
+/Users/germanantoniocarrascocalderon/git/SaasBillingSystem/src/SaaSBillingSystem.Domain/obj/Debug/net10.0/ref/SaaSBillingSystem.Domain.dll
