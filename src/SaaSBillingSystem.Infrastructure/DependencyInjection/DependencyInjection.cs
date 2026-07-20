@@ -5,7 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using SaaSBillingSystem.Application.Repositories;
 using SaaSBillingSystem.Infrastructure.Persistence;
+using SaaSBillingSystem.Infrastructure.Repositories;
 
 namespace SaaSBillingSystem.Infrastructure.DependencyInjection
 {
@@ -23,7 +25,9 @@ namespace SaaSBillingSystem.Infrastructure.DependencyInjection
             });
 
             //Repos
-            
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             return services;
         }
