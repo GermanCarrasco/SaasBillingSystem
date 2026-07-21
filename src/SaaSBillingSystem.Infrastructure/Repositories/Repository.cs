@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using SaaSBillingSystem.Application.Repositories;
 using SaaSBillingSystem.Infrastructure.Persistence;
 
@@ -16,29 +17,35 @@ namespace SaaSBillingSystem.Infrastructure.Repositories
             _dbcontext = dbcontext;
         }
         
-        public Task AddAsync(TEntity entity, CancellationToken cancellationToken = default)
+        public async Task AddAsync(TEntity entity, CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+             await _dbcontext.AddAsync(entity,cancellationToken);
         }
 
-        public Task AddRangeAsync(IEnumerable<TEntity> entities, CancellationToken cancellationToken = default)
+        public async Task AddRangeAsync(IEnumerable<TEntity> entities, CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            await _dbcontext.AddRangeAsync(entities,cancellationToken);
         }
 
-        public Task<bool> ExistsAsync(int id, CancellationToken cancellationToken = default)
+        public async Task<bool> ExistsAsync(int id, CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            var entity = await _dbcontext.Set<TEntity>()
+                .FindAsync(new object[] { id }, cancellationToken);
+
+            return entity is not null;
         }
 
-        public Task<IReadOnlyList<TEntity>> GetAllAsync(CancellationToken cancellationToken = default)
+        public async Task<IReadOnlyList<TEntity>> GetAllAsync(CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            return await _dbcontext.Set<TEntity>()
+            .AsNoTracking()
+            .ToListAsync(cancellationToken);
         }
 
-        public Task<TEntity?> GetByIdAsync(int id, CancellationToken cancellationToken = default)
+        public async Task<TEntity?> GetByIdAsync(int id, CancellationToken cancellationToken = default)
         {
-            throw new NotImplementedException();
+            return await _dbcontext.Set<TEntity>()
+                .FindAsync(new object[] { id }, cancellationToken);
         }
 
         public void Remove(TEntity entity)
