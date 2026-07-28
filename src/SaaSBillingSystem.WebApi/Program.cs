@@ -1,4 +1,5 @@
 using SaaSBillingSystem.WebApi.DependencyInjection;
+using SaaSBillingSystem.WebApi.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,8 @@ builder.Services.AddOpenApi();
 builder.Services.AddPresentation();
 
 var app = builder.Build();
+
+app.UseExceptionMiddleware();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

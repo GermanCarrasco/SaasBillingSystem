@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SaaSBillingSystem.Application.Repositories;
 using SaaSBillingSystem.Infrastructure.Persistence;
@@ -50,17 +46,17 @@ namespace SaaSBillingSystem.Infrastructure.Repositories
 
         public void Remove(TEntity entity)
         {
-            throw new NotImplementedException();
+            _dbcontext.Remove(entity);
         }
 
         public void RemoveRange(IEnumerable<TEntity> entities)
         {
-            throw new NotImplementedException();
+            _dbcontext.RemoveRange(entities);
         }
 
         public void Update(TEntity entity)
         {
-            throw new NotImplementedException();
+            _dbcontext.Update(entity);
         }
     }
 }
