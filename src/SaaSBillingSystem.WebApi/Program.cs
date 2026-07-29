@@ -7,9 +7,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.Services.AddPresentation();
+builder.Services.AddPresentation(builder.Configuration);
 
 var app = builder.Build();
+
+app.UseSwaggerBasicAuthentication();
 
 app.UseExceptionMiddleware();
 
@@ -26,6 +28,7 @@ if (app.Environment.IsDevelopment())
     });
 
 }
+
 
 app.UseAuthorization();
 
